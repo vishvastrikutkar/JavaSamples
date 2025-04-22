@@ -1,0 +1,19 @@
+2024-05-15 12:10:42,813 INFO CoreJava.LoggingExample [main] CoreJava.LoggingExample.main(LoggingExample.java:11) This is information
+2024-05-15 12:10:42,818 ERROR CoreJava.LoggingExample [main] CoreJava.LoggingExample.main(LoggingExample.java:12) This is error
+2024-05-15 12:10:42,818 DEBUG CoreJava.LoggingExample [main] CoreJava.LoggingExample.main(LoggingExample.java:13) This is debug
+2024-05-15 12:10:42,818 TRACE CoreJava.LoggingExample [main] CoreJava.LoggingExample.main(LoggingExample.java:14) This is trace
+2024-05-15 12:10:42,818 FATAL CoreJava.LoggingExample [main] CoreJava.LoggingExample.main(LoggingExample.java:15) This is fatal
+2024-05-15 12:10:42,831 WARN CoreJava.LoggingExample [main] CoreJava.LoggingExample.main(LoggingExample.java:16) This is warning
+2024-05-15 12:10:42,831 INFO root [main] CoreJava.LoggingExample.main(LoggingExample.java:20) This is information
+2024-05-15 12:10:42,831 ERROR root [main] CoreJava.LoggingExample.main(LoggingExample.java:21) This is error
+2024-05-15 12:10:42,831 DEBUG root [main] CoreJava.LoggingExample.main(LoggingExample.java:22) This is debug
+2024-05-15 12:10:42,834 TRACE root [main] CoreJava.LoggingExample.main(LoggingExample.java:23) This is trace
+2024-05-15 12:10:42,834 FATAL root [main] CoreJava.LoggingExample.main(LoggingExample.java:24) This is fatal
+2024-05-15 12:10:42,834 WARN root [main] CoreJava.LoggingExample.main(LoggingExample.java:25) This is warning
+2024-05-16 18:28:13,511 INFO CoreJava.ArrayBalance [main] CoreJava.ArrayBalance.main(ArrayBalance.java:9) Output: true
+2024-05-16 18:28:13,514 INFO CoreJava.ArrayBalance [main] CoreJava.ArrayBalance.main(ArrayBalance.java:10) Output: false
+2024-05-16 18:28:13,514 INFO CoreJava.ArrayBalance [main] CoreJava.ArrayBalance.main(ArrayBalance.java:11) Output: false
+2024-05-16 18:28:13,514 INFO CoreJava.ArrayBalance [main] CoreJava.ArrayBalance.main(ArrayBalance.java:12) Output: true
+2024-05-16 18:28:13,514 INFO CoreJava.ArrayBalance [main] CoreJava.ArrayBalance.main(ArrayBalance.java:13) Output: false
+2024-05-27 12:39:22,657 INFO CoreJava.Calculator [main] CoreJava.Calculator.main(Calculator.java:29) Choice Entered 9
+2024-05-27 12:39:22,664 ERROR CoreJava.Calculator [main] CoreJava.Calculator.main(Calculator.java:30) Invalid choice. Please enter correct choice

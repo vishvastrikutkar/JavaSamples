@@ -1,0 +1,142 @@
+[
+Name:Cricket Bat	Price:850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:800.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:90.0	Category:Electronics	Grade:B, 
+Name:Football	Price:2500.0	Category:Sports	Grade:C, 
+Name:TV	Price:50.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:1300.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:Cricket Bat	Price:850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:800.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:90.0	Category:Electronics	Grade:B, 
+Name:Football	Price:2500.0	Category:Sports	Grade:C, 
+Name:TV	Price:50.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:1300.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:Cricket Bat	Price:850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:800.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:90.0	Category:Electronics	Grade:B, 
+Name:Football	Price:2500.0	Category:Sports	Grade:C, 
+Name:TV	Price:50.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:1300.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:Cricket Bat	Price:850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:800.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:90.0	Category:Electronics	Grade:B, 
+Name:Football	Price:2500.0	Category:Sports	Grade:C, 
+Name:TV	Price:50.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:1300.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:Cricket Bat	Price:1850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:60000.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:3000.0	Category:Electronics	Grade:B, 
+Name:Football	Price:1500.0	Category:Sports	Grade:C, 
+Name:TV	Price:45000.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:350.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:Cricket Bat	Price:1850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:60000.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:3000.0	Category:Electronics	Grade:B, 
+Name:Football	Price:1500.0	Category:Sports	Grade:C, 
+Name:TV	Price:45000.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:350.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:Cricket Bat	Price:1850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:60000.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:3000.0	Category:Electronics	Grade:B, 
+Name:Football	Price:500.0	Category:Sports	Grade:C, 
+Name:TV	Price:45000.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:350.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:Cricket Bat	Price:1850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:60000.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:3000.0	Category:Electronics	Grade:B, 
+Name:Football	Price:500.0	Category:Sports	Grade:C, 
+Name:TV	Price:45000.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:350.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:Cricket Bat	Price:1850.5	Category:Sports	Grade:C, 
+Name:iPhone	Price:60000.0	Category:Electronics	Grade:A, 
+Name:Laptop	Price:3000.0	Category:Electronics	Grade:B, 
+Name:Football	Price:500.0	Category:Sports	Grade:C, 
+Name:TV	Price:45000.0	Category:Electronics	Grade:D, 
+Name:Shoes	Price:350.0	Category:Footwear	Grade:D, 
+Name:Shirt	Price:950.0	Category:Clothing	Grade:D]
+[
+Name:TV	Price:570.4339287756088	Category:Sports	Grade:Standard, 
+Name:Football	Price:599.992681926038	Category:Footwear	Grade:Standard, 
+Name:Football	Price:968.4257562772982	Category:Electronics	Grade:Standard, 
+Name:Shirt	Price:678.6001017202209	Category:Clothing	Grade:Standard, 
+Name:Shoes	Price:1523.8000753265799	Category:Electronics	Grade:Premium, 
+Name:Mobile	Price:1187.4359032230548	Category:Clothing	Grade:Premium, 
+Name:Shoes	Price:63.97913997725455	Category:Sports	Grade:Standard]
+[
+Name:Mobile	Price:790.5546538618956	Category:Clothing	Grade:Standard, 
+Name:Shirt	Price:1199.734047875514	Category:Footwear	Grade:Premium, 
+Name:Mobile	Price:1376.0408969827527	Category:Footwear	Grade:Premium, 
+Name:Shoes	Price:1051.5057825159738	Category:Footwear	Grade:Premium, 
+Name:Shirt	Price:1930.3089780025985	Category:Footwear	Grade:Premium, 
+Name:Shirt	Price:1721.87433222258	Category:Clothing	Grade:Premium, 
+Name:Football	Price:1585.9465217294985	Category:Footwear	Grade:Premium]
+[
+Name:Shoes	Price:5932.144515940292	Category:Footwear	Grade:Premium, 
+Name:TV	Price:5921.879266752397	Category:Clothing	Grade:Premium, 
+Name:Shirt	Price:6474.7344205404215	Category:Footwear	Grade:Premium, 
+Name:TV	Price:6363.89797939695	Category:Electronics	Grade:Premium, 
+Name:Shirt	Price:5927.318607221805	Category:Clothing	Grade:Premium, 
+Name:TV	Price:6977.966055744287	Category:Sports	Grade:Premium, 
+Name:Mobile	Price:5999.662178325552	Category:Footwear	Grade:Premium]
+[
+Name:Football	Price:4608.244727534429	Category:Clothing	Grade:Premium, 
+Name:TV	Price:6968.708187696966	Category:Footwear	Grade:Premium, 
+Name:TV	Price:6532.419031106096	Category:Electronics	Grade:Premium, 
+Name:Football	Price:2023.9753300976977	Category:Clothing	Grade:Premium, 
+Name:Shoes	Price:7415.132784113729	Category:Footwear	Grade:Premium, 
+Name:Football	Price:7210.217701415521	Category:Electronics	Grade:Premium, 
+Name:Football	Price:5569.834582255697	Category:Electronics	Grade:Premium]
+[
+Name:TV	Price:1894.9117225023876	Category:Footwear	Grade:Premium, 
+Name:Mobile	Price:724.2971360823749	Category:Electronics	Grade:Standard, 
+Name:Football	Price:706.1701772286957	Category:Footwear	Grade:Standard, 
+Name:Shoes	Price:1155.321307448661	Category:Electronics	Grade:Premium, 
+Name:Shoes	Price:1234.5957801264833	Category:Footwear	Grade:Premium, 
+Name:Shoes	Price:1027.651157870151	Category:Clothing	Grade:Premium, 
+Name:TV	Price:1412.7776726032148	Category:Sports	Grade:Premium]
+[
+Name:Football	Price:2642.929496970195	Category:Electronics	Grade:Premium, 
+Name:Football	Price:3947.327162792902	Category:Electronics	Grade:Premium, 
+Name:Shoes	Price:2687.316757950752	Category:Clothing	Grade:Premium, 
+Name:Mobile	Price:1651.5257689549019	Category:Footwear	Grade:Premium, 
+Name:Football	Price:2919.2266716365652	Category:Clothing	Grade:Premium, 
+Name:Football	Price:386.6034469298726	Category:Electronics	Grade:Standard, 
+Name:Mobile	Price:2288.231928354381	Category:Footwear	Grade:Premium, 
+Name:Football	Price:4500.5	Category:Sports	Grade:C, 
+Name:TV	Price:50.0	Category:Electronics	Grade:D]
+[
+Name:Shoes	Price:1896.5705480109943	Category:Clothing	Grade:Premium, 
+Name:TV	Price:2285.269053339736	Category:Sports	Grade:Premium, 
+Name:Shoes	Price:958.3799319634062	Category:Sports	Grade:Standard, 
+Name:Mobile	Price:1138.2128974961704	Category:Sports	Grade:Premium, 
+Name:TV	Price:3696.005255745406	Category:Sports	Grade:Premium, 
+Name:Football	Price:2852.590318475827	Category:Sports	Grade:Premium, 
+Name:Mobile	Price:3484.565586548556	Category:Footwear	Grade:Premium, 
+Name:Mobile	Price:4500.5	Category:Sports	Grade:C, 
+Name:TV	Price:1550.0	Category:Electronics	Grade:D]
+[
+Name:Mobile	Price:5957.890093024327	Category:Clothing	Grade:A, 
+Name:Football	Price:6549.770131073874	Category:Clothing	Grade:D, 
+Name:Mobile	Price:1505.5185137624412	Category:Clothing	Grade:D, 
+Name:Shirt	Price:950.0046799426009	Category:Sports	Grade:C, 
+Name:Mobile	Price:2094.6193718223703	Category:Electronics	Grade:D, 
+Name:Football	Price:3908.8993807889697	Category:Clothing	Grade:C, 
+Name:Football	Price:7714.859235325546	Category:Sports	Grade:A, 
+Name:Mobile	Price:4500.5	Category:Sports	Grade:C, 
+Name:TV	Price:1550.0	Category:Electronics	Grade:D]
